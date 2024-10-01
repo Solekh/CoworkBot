@@ -1,0 +1,47 @@
+[
+  {
+    "id" : 1,
+    "name" : "Python Backend",
+    "category_id" : 1
+  },
+  {
+    "id" :2,
+    "name" : "Java Backend",
+    "category_id" : 1
+  },
+  {
+    "id" :3,
+    "name" : "Frontend",
+    "category_id" : 1
+  },
+  {
+    "id" :4,
+    "name" : "NodeJS",
+    "category_id" : 1
+  },
+  {
+    "id" :5,
+    "name" : "Mobile",
+    "category_id" : 1
+  },
+  {
+    "id" :6,
+    "name" : "Game",
+    "category_id" : 1
+  },
+  {
+    "id" :7,
+    "name" : "SMM",
+    "category_id" : 2
+  },
+  {
+    "id" :8,
+    "name" : "Targeting",
+    "category_id" : 2
+  },
+  {
+    "id": 9,
+    "name": "Video Marketing",
+    "category_id": 2
+  }
+]

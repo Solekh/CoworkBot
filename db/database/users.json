@@ -1,0 +1,40 @@
+[
+   {
+      "id": 1148477816,
+      "first_name": "Dilshod",
+      "last_name": "Absaitov",
+      "phone_number": "998993583234",
+      "language": "en",
+      "description": "dasfdgf",
+      "balance": 0.0,
+      "role": [
+         "employee",
+         "customer"
+      ]
+   },
+   {
+      "id": 882090673,
+      "first_name": "Rustambek",
+      "last_name": "Toirov",
+      "phone_number": "998998101807",
+      "language": "uz",
+      "description": "dszfghjkl;",
+      "balance": 0.0,
+      "role": [
+         "employee",
+         "customer"
+      ]
+   },
+   {
+      "id": 5936243442,
+      "first_name": "nm,.",
+      "last_name": "qwerty",
+      "phone_number": "998330729010",
+      "language": "en",
+      "description": null,
+      "balance": 0.0,
+      "role": [
+         "customer"
+      ]
+   }
+]

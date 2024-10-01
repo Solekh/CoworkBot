@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "name" : "IT va dasturlash"
+  },
+  {
+    "id" : 2,
+    "name" : "Digital Marketing"
+  },
+  {
+    "id" : 3,
+    "name" : "Dizayner"
+  },
+  {
+    "id" : 4,
+    "name" : "Montaj"
+  },
+  {
+    "id" : 5,
+    "name" : "VideoGraph"
+  },
+  {
+    "id" : 6,
+    "name" : "3D Dizayner"
+  }
+]
